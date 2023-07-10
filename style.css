@@ -119,3 +119,30 @@
     font-weight: bold;
     margin-top: 20px;
 }
+
+.services-container {
+    position: relative;
+    top: 173px;
+    text-align: center;
+}
+
+
+#services {
+    display: flex;
+    margin: 34px;
+
+}
+
+#services .box {
+    border: 2px solid brown;
+    text-align: center;
+    padding: 34px;
+    margin: 8px 6px;
+    border-radius: 10px;
+}
+
+#services .box img {
+    height: 160px;
+    display: block;
+    margin: auto;
+}
